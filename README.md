@@ -1,4 +1,4 @@
-compiled the newest Gstreamer for vs2010,tested with openframeworks 0071
+compiled the newest Gstreamer for vs2010,tested with openframeworks 0071,
 you have to setting environment PATH in order to working
 
 Current component versions:
