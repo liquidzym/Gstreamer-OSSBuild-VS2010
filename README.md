@@ -1,5 +1,5 @@
 compiled the newest Gstreamer for vs2010,tested with openframeworks 0071,
-you have to setting environment PATH in order to working
+you have to setting environment PATH in order to make it working
 
 Current component versions:
 
@@ -15,3 +15,5 @@ more info:
 http://code.google.com/p/ossbuild-vs2010/
 http://code.google.com/p/ossbuild/
 http://zh.wikipedia.org/wiki/GStreamer
+
+put gstreamer in the openframeworks's libs folder&replaced the openframeworksLib solution file from the openFrameworksCompiled folder
